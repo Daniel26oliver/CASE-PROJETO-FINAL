@@ -28,14 +28,4 @@ Clone este repositório para sua máquina local.
 ```
 - npm start
 ```
-## Métodos de requisição HTTP Possíveis
-
-
-| Método | Rota | Descrição |
-| ------ | ----- | ----------- |
-| **`GET`** | **/produtos** | Retorna todos os produtos. |
-|  **`GET`** | **/produtos/id** | Retorna um produtos pelo ID. |
-|  **`POST`** | **/produtos** | Cria um novo produto.  |
-|  **`PUT`** | **/produtos/id** | Altera os dados do produto.
-|  **`DELETE`** | **/produtos/id** | deleta o produto.
 
