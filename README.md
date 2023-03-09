@@ -11,8 +11,7 @@ Clone este repositório para sua máquina local.
 - npm init -y
 ```
 ```
-- npm install bcryptjs connect-flash express express-flash express-session express-handlebars mysql2 sequelize nodemon 
-  cookie-parser cookie-session session-file-store 
+- npm install bcryptjs connect-flash express express-flash express-session express-handlebars mysql2 sequelize nodemon cookie-parser cookie-session session-file-store 
 ```
 - Crie uma copia do nosso banco de dados em sua máquina, utilizar o script loja.sql para alimentação do banco:
 ```
